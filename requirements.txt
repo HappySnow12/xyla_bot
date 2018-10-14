@@ -40,7 +40,6 @@ selenium==3.14.1
 six==1.11.0
 telebot==0.0.3
 urllib3==1.23
-wavebender==0.3
 wcwidth==0.1.7
 wit==5.1.0
 yarg==0.1.9
