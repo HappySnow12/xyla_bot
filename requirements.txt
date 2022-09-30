@@ -15,7 +15,7 @@ diskcache==3.0.6
 docopt==0.6.2
 emoji==0.5.1
 idna==2.7
-joblib==0.12.5
+joblib==1.2.0
 librosa==0.6.2
 llvmlite==0.25.0
 more-itertools==4.3.0
